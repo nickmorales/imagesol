@@ -1,0 +1,173 @@
+format-version: 1.2
+ontology: G2F_ontology
+default-namespace: G2F_ontology
+
+[Term]
+id: G2F:0000000
+name: G2F
+
+[Term]
+id: G2F:0000001
+name: Agronomic Traits
+is_a: G2F:0000000
+
+[Term]
+id: G2F:0000002
+name: Pollen DAP [days]
+def: "Number of days after planting that 50% of plants in the plot began shedding pollen." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000003
+name: Silk DAP [days]
+def: "Number of days after planting that 50% of plants in the plot had visible silks." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000004
+name: Plant Height [cm]
+def: "Measured as the distance between the base of a plant and the ligule of the flag leaf." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000005
+name: Ear Height [cm]
+def: "Measured as the distance from the ground to the primary ear bearing node." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000006
+name: Stand Count [plants]
+def: "Number of plants per plot at harvest." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000007
+name: Root Lodging [plants]
+def: "Number of plants that show root lodging per plot, i.e., those stems that lean substantially to one side (> 15% from vertical).  Count includes ‘goosenecked’ plants that have ‘straightened up’ after becoming lodged earlier in the season." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000008
+name: Stalk Lodging [plants]
+def: "Number of plants broken between ground level and top ear node at harvest." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000009
+name: Grain Moisture [percent]
+def: "Water content in grain at harvest." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000010
+name: Test Weight [lbs/bu]
+def: "Shelled grain weight per bushel." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000011
+name: Plot Weight [lbs]
+def: "Shelled grain weight per plot." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000012
+name: Grain Yield [bu/acre]
+def: "Grain yield in bushels per acre at 15.5% grain moisture assuming 56lbs per bushel and usin plot area without alley." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000013
+name: Zonal Statistics Traits
+is_a: G2F:0000000
+
+[Term]
+id: G2F:0000014
+name: Nonzero Pixel Count
+def: "Total number of pixels that have a non-zero pixel value i.e. they are not completely black or empty." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000015
+name: Total Pixel Sum
+def: "Total sum of all pixel values." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000016
+name: Mean Pixel Value
+def: "The arithmetic mean of all pixel values." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000017
+name: Harmonic Mean Pixel Value
+def: "The harmonic mean of all pixel values." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000018
+name: Median Pixel Value
+def: "The median pixel value." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000019
+name: Pixel Variance
+def: "The variance over all pixel values." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000020
+name: Pixel Standard Deviation
+def: "The standard deviation over all pixel values." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000021
+name: Pixel Population Standard Deviation
+def: "The population standard deviation over all pixel values." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000022
+name: Minimum Pixel Value
+def: "The minimum pixel value observed." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000023
+name: Maximum Pixel Value
+def: "The maximum pixel value observed." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000024
+name: Minority Pixel Value
+def: "The pixel value that is observed the least number of times." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000025
+name: Minority Pixel Count
+def: "The number of times that the least observed pixel value is observed." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000026
+name: Majority Pixel Value
+def: "The pixel value that is observed the most number of times." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000027
+name: Majority Pixel Count
+def: "The number of times that the most observed pixel is observed." []
+relationship: variable_of G2F:0000013
+
+[Term]
+id: G2F:0000028
+name: Pixel Group Count
+def: "The number of unique pixel values that are observed." []
+relationship: variable_of G2F:0000013

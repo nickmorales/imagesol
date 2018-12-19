@@ -1,0 +1,7 @@
+
+<& /page/page_title.mas, title=>"ImageSol Help" &>
+
+<div>ImageSol is a tool for managing, extracting, and analyzing drone images for plant breeding.</div>
+
+<h3>Manual</h3>
+

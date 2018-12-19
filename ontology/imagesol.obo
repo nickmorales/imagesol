@@ -1,0 +1,66 @@
+format-version: 1.2
+ontology: Imagesol_ontology
+default-namespace: Imagesol_ontology
+
+[Term]
+id: ISOL:0000000
+name: ISOL
+
+[Term]
+id: ISOL:0000001
+name: Spectral Band Type
+is_a: ISOL:0000000
+
+[Term]
+id: ISOL:0000002
+name: RGB Color Image
+def: "A three channel image where the channels are red, green, blue" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000003
+name: Black and White Image
+def: "A gray scale, single channel, black and white image of unknown spectrum" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000004
+name: Blue (450-520nm)
+def: "A single channel image capturing the blue spectrum between 450 to 520 nm" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000005
+name: Green (515-600nm)
+def: "A single channel image capturing the green spectrum between 515 to 600 nm" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000006
+name: Red (600-690nm)
+def: "A single channel image capturing the red spectrum between 600 to 690 nm" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000007
+name: NIR (750-900nm)
+def: "A single channel image capturing the near infrared (NIR) spectrum between 750 to 900 nm" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000008
+name: MIR (1550-1750nm)
+def: "A single channel image capturing the mid infrared (MIR) spectrum between 1550 to 1750 nm" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000009
+name: FIR (2080-2350nm)
+def: "A single channel image capturing the far infrared spectrum between 2080 to 2350 nm" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000010
+name: Thermal IR (10400-12500nm)
+def: "A single channel image capturing the thermal infrared spectrum between 10400 to 12500 nm" []
+relationship: variable_of ISOL:0000001
