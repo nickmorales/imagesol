@@ -64,3 +64,57 @@ id: ISOL:0000010
 name: Thermal IR (10400-12500nm)
 def: "A single channel image capturing the thermal infrared spectrum between 10400 to 12500 nm" []
 relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000011
+name: Channel 1 In Merged 3 Bands Image
+def: "A single channel image using the first band (channel 1) in a merged three band image" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000012
+name: Channel 2 In Merged 3 Bands Image
+def: "A single channel image using the second band (channel 2) in a merged three band image" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000013
+name: Channel 3 In Merged 3 Bands Image
+def: "A single channel image using the third band (channel 3) in a merged three band image" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000014
+name: Channel 1 In RGB Image
+def: "A single channel image using the first band (channel 1) in a RGB (red green blue) image" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000015
+name: Channel 2 In RGB Image
+def: "A single channel image using the second band (channel 2) in a RGB (red green blue) image" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000016
+name: Channel 3 In RGB Image
+def: "A single channel image using the third band (channel 3) in a RGB (red green blue) image" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000017
+name: TGI
+def: "Triangular greenness index (TGI) = Green - 0.39*Red - 0.61*Blue" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000018
+name: NDVI
+def: "Normalized difference vegetative index (NDVI) = (NIR - Red) / (NIR + Red)" []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000019
+name: VARI
+def: "Visible atmospheric resistant index (VARI) = (Green - Red) / (Green + Red - Blue)" []
+relationship: variable_of ISOL:0000001
