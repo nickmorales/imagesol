@@ -15,115 +15,115 @@ is_a: ISOL:0000000
 id: ISOL:0000002
 name: RGB Color Image
 def: "A three channel image where the channels are red, green, blue" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000003
 name: Black and White Image
 def: "A gray scale, single channel, black and white image of unknown spectrum" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000004
 name: Blue (450-520nm)
 def: "A single channel image capturing the blue spectrum between 450 to 520 nm" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000005
 name: Green (515-600nm)
 def: "A single channel image capturing the green spectrum between 515 to 600 nm" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000006
 name: Red (600-690nm)
 def: "A single channel image capturing the red spectrum between 600 to 690 nm" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000007
 name: NIR (750-900nm)
 def: "A single channel image capturing the near infrared (NIR) spectrum between 750 to 900 nm" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000008
 name: MIR (1550-1750nm)
 def: "A single channel image capturing the mid infrared (MIR) spectrum between 1550 to 1750 nm" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000009
 name: FIR (2080-2350nm)
 def: "A single channel image capturing the far infrared spectrum between 2080 to 2350 nm" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000010
 name: Thermal IR (10400-12500nm)
 def: "A single channel image capturing the thermal infrared spectrum between 10400 to 12500 nm" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000011
 name: Channel 1 In Merged 3 Bands Image
 def: "A single channel image using the first band (channel 1) in a merged three band image" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000012
 name: Channel 2 In Merged 3 Bands Image
 def: "A single channel image using the second band (channel 2) in a merged three band image" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000013
 name: Channel 3 In Merged 3 Bands Image
 def: "A single channel image using the third band (channel 3) in a merged three band image" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000014
 name: Channel 1 In RGB Image
 def: "A single channel image using the first band (channel 1) in a RGB (red green blue) image" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000015
 name: Channel 2 In RGB Image
 def: "A single channel image using the second band (channel 2) in a RGB (red green blue) image" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000016
 name: Channel 3 In RGB Image
 def: "A single channel image using the third band (channel 3) in a RGB (red green blue) image" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000017
 name: TGI
 def: "Triangular greenness index (TGI) = Green - 0.39*Red - 0.61*Blue" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000018
 name: NDVI
 def: "Normalized difference vegetative index (NDVI) = (NIR - Red) / (NIR + Red)" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000019
 name: VARI
 def: "Visible atmospheric resistant index (VARI) = (Green - Red) / (Green + Red - Blue)" []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000020
 name: Merged 3 Bands
 def: "Created a 3 band image by merging 3 single channel bands e.g. red, green, and NIR." []
-relationship: variable_of ISOL:0000001
+relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000021
@@ -134,142 +134,142 @@ is_a: ISOL:0000000
 id: ISOL:0000022
 name: TGI From Denoised Original Image
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000023
 name: VARI From Denoised Original Image
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000024
 name: NDVI From Denoised Original Image
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000025
 name: Channel 1 in Denoised Original Image with Background Removed via Original TGI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000026
 name: Channel 1 in Denoised Original Image with Background Removed via Thresholded TGI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000027
 name: Channel 1 in Denoised Original Image with Background Removed via Original VARI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000028
 name: Channel 1 in Denoised Original Image with Background Removed via Thresholded VARI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000029
 name: Channel 1 in Denoised Original Image with Background Removed via Original NDVI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000030
 name: Channel 1 in Denoised Original Image with Background Removed via Thresholded NDVI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000031
 name: Channel 1 in Denoised Original Image with Background Removed via Threshold
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000032
 name: Channel 2 in Denoised Original Image with Background Removed via Original TGI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000033
 name: Channel 2 in Denoised Original Image with Background Removed via Thresholded TGI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000034
 name: Channel 2 in Denoised Original Image with Background Removed via Original VARI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000035
 name: Channel 2 in Denoised Original Image with Background Removed via Thresholded VARI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000036
 name: Channel 2 in Denoised Original Image with Background Removed via Original NDVI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000037
 name: Channel 2 in Denoised Original Image with Background Removed via Thresholded NDVI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000038
 name: Channel 2 in Denoised Original Image with Background Removed via Threshold
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000039
 name: Channel 3 in Denoised Original Image with Background Removed via Original TGI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000040
 name: Channel 3 in Denoised Original Image with Background Removed via Thresholded TGI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000041
 name: Channel 3 in Denoised Original Image with Background Removed via Original VARI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000042
 name: Channel 3 in Denoised Original Image with Background Removed via Thresholded VARI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000043
 name: Channel 3 in Denoised Original Image with Background Removed via Original NDVI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000044
 name: Channel 3 in Denoised Original Image with Background Removed via Thresholded NDVI Mask
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
 
 [Term]
 id: ISOL:0000045
 name: Channel 3 in Denoised Original Image with Background Removed via Threshold
 def: "" []
-relationship: variable_of ISOL:0000021
+relationship: is_a ISOL:0000021
