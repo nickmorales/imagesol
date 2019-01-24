@@ -118,3 +118,158 @@ id: ISOL:0000019
 name: VARI
 def: "Visible atmospheric resistant index (VARI) = (Green - Red) / (Green + Red - Blue)" []
 relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000020
+name: Merged 3 Bands
+def: "Created a 3 band image by merging 3 single channel bands e.g. red, green, and NIR." []
+relationship: variable_of ISOL:0000001
+
+[Term]
+id: ISOL:0000021
+name: Image Pre-Process Type
+is_a: ISOL:0000000
+
+[Term]
+id: ISOL:0000022
+name: TGI From Denoised Original Image
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000023
+name: VARI From Denoised Original Image
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000024
+name: NDVI From Denoised Original Image
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000025
+name: Channel 1 in Denoised Original Image with Background Removed via Original TGI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000026
+name: Channel 1 in Denoised Original Image with Background Removed via Thresholded TGI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000027
+name: Channel 1 in Denoised Original Image with Background Removed via Original VARI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000028
+name: Channel 1 in Denoised Original Image with Background Removed via Thresholded VARI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000029
+name: Channel 1 in Denoised Original Image with Background Removed via Original NDVI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000030
+name: Channel 1 in Denoised Original Image with Background Removed via Thresholded NDVI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000031
+name: Channel 1 in Denoised Original Image with Background Removed via Threshold
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000032
+name: Channel 2 in Denoised Original Image with Background Removed via Original TGI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000033
+name: Channel 2 in Denoised Original Image with Background Removed via Thresholded TGI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000034
+name: Channel 2 in Denoised Original Image with Background Removed via Original VARI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000035
+name: Channel 2 in Denoised Original Image with Background Removed via Thresholded VARI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000036
+name: Channel 2 in Denoised Original Image with Background Removed via Original NDVI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000037
+name: Channel 2 in Denoised Original Image with Background Removed via Thresholded NDVI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000038
+name: Channel 2 in Denoised Original Image with Background Removed via Threshold
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000039
+name: Channel 3 in Denoised Original Image with Background Removed via Original TGI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000040
+name: Channel 3 in Denoised Original Image with Background Removed via Thresholded TGI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000041
+name: Channel 3 in Denoised Original Image with Background Removed via Original VARI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000042
+name: Channel 3 in Denoised Original Image with Background Removed via Thresholded VARI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000043
+name: Channel 3 in Denoised Original Image with Background Removed via Original NDVI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000044
+name: Channel 3 in Denoised Original Image with Background Removed via Thresholded NDVI Mask
+def: "" []
+relationship: variable_of ISOL:0000021
+
+[Term]
+id: ISOL:0000045
+name: Channel 3 in Denoised Original Image with Background Removed via Threshold
+def: "" []
+relationship: variable_of ISOL:0000021
