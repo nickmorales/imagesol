@@ -273,3 +273,21 @@ id: ISOL:0000045
 name: Channel 3 in Denoised Original Image with Background Removed via Threshold
 def: "" []
 relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000046
+name: TGI with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000047
+name: VARI with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000048
+name: NDVI with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
