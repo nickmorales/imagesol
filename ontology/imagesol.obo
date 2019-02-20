@@ -291,3 +291,69 @@ id: ISOL:0000048
 name: NDVI with Background Removed via Threshold
 def: "" []
 relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000049
+name: Channel 1 in Denoised Original Black and White Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000050
+name: Channel 1 in Denoised Original RGB Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000051
+name: Channel 2 in Denoised Original RGB Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000052
+name: Channel 3 in Denoised Original RGB Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000053
+name: Channel 1 in Denoised Original Blue Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000054
+name: Channel 1 in Denoised Original Green Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000055
+name: Channel 1 in Denoised Original Red Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000056
+name: Channel 1 in Denoised Original NIR Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000057
+name: Channel 1 in Denoised Original MIR Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000058
+name: Channel 1 in Denoised Original FIR Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000059
+name: Channel 1 in Denoised Original Thermal IR Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
