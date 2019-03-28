@@ -375,3 +375,9 @@ id: ISOL:0000062
 name: Merged 3 Bands NRN
 def: "Created a 3 band image by merging 3 single channel bands in the following order, NIR, Red, NIR for band 1, band 2, and band 3, respectively." []
 relationship: is_a ISOL:0000001
+
+[Term]
+id: ISOL:0000063
+name: Channel 1 in Denoised Original Red Edge Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
