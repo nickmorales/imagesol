@@ -1,4 +1,4 @@
 imagesol
 =========
 
-imagesol-specific mason modules
+imagesol (imagebreed.org)-specific mason modules
