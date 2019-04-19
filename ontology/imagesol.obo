@@ -381,3 +381,237 @@ id: ISOL:0000063
 name: Channel 1 in Denoised Original Red Edge Image with Background Removed via Threshold
 def: "" []
 relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000064
+name: FT HPF 30 TGI From Denoised Original Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000065
+name: FT HPF 30 VARI From Denoised Original Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000066
+name: FT HPF 30 NDVI From Denoised Original Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000067
+name: FT HPF 30 Channel 1 in Denoised Original Image with Background Removed via Original TGI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000068
+name: FT HPF 30 Channel 1 in Denoised Original Image with Background Removed via Thresholded TGI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000069
+name: FT HPF 30 Channel 1 in Denoised Original Image with Background Removed via Original VARI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000070
+name: FT HPF 30 Channel 1 in Denoised Original Image with Background Removed via Thresholded VARI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000071
+name: FT HPF 30 Channel 1 in Denoised Original Image with Background Removed via Original NDVI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000072
+name: FT HPF 30 Channel 1 in Denoised Original Image with Background Removed via Thresholded NDVI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000073
+name: FT HPF 30 Channel 1 in Denoised Original Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000074
+name: FT HPF 30 Channel 2 in Denoised Original Image with Background Removed via Original TGI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000075
+name: FT HPF 30 Channel 2 in Denoised Original Image with Background Removed via Thresholded TGI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000076
+name: FT HPF 30 Channel 2 in Denoised Original Image with Background Removed via Original VARI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000077
+name: FT HPF 30 Channel 2 in Denoised Original Image with Background Removed via Thresholded VARI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000078
+name: FT HPF 30 Channel 2 in Denoised Original Image with Background Removed via Original NDVI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000079
+name: FT HPF 30 Channel 2 in Denoised Original Image with Background Removed via Thresholded NDVI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000080
+name: FT HPF 30 Channel 2 in Denoised Original Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000081
+name: FT HPF 30 Channel 3 in Denoised Original Image with Background Removed via Original TGI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000082
+name: FT HPF 30 Channel 3 in Denoised Original Image with Background Removed via Thresholded TGI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000083
+name: FT HPF 30 Channel 3 in Denoised Original Image with Background Removed via Original VARI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000084
+name: FT HPF 30 Channel 3 in Denoised Original Image with Background Removed via Thresholded VARI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000085
+name: FT HPF 30 Channel 3 in Denoised Original Image with Background Removed via Original NDVI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000086
+name: FT HPF 30 Channel 3 in Denoised Original Image with Background Removed via Thresholded NDVI Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000087
+name: FT HPF 30 Channel 3 in Denoised Original Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000088
+name: FT HPF 30 TGI with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000089
+name: FT HPF 30 VARI with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000090
+name: FT HPF 30 NDVI with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000091
+name: FT HPF 30 Channel 1 in Denoised Original Black and White Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000092
+name: FT HPF 30 Channel 1 in Denoised Original RGB Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000093
+name: FT HPF 30 Channel 2 in Denoised Original RGB Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000094
+name: FT HPF 30 Channel 3 in Denoised Original RGB Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000095
+name: FT HPF 30 Channel 1 in Denoised Original Blue Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000096
+name: FT HPF 30 Channel 1 in Denoised Original Green Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000097
+name: FT HPF 30 Channel 1 in Denoised Original Red Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000098
+name: FT HPF 30 Channel 1 in Denoised Original NIR Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000099
+name: FT HPF 30 Channel 1 in Denoised Original MIR Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000100
+name: FT HPF 30 Channel 1 in Denoised Original FIR Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000101
+name: FT HPF 30 Channel 1 in Denoised Original Thermal IR Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000102
+name: FT HPH 30 Channel 1 in Denoised Original Red Edge Image with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
