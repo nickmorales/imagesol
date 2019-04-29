@@ -615,3 +615,45 @@ id: ISOL:0000102
 name: FT HPH 30 Channel 1 in Denoised Original Red Edge Image with Background Removed via Threshold
 def: "" []
 relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000103
+name: FT HPF 30 Channel 1 in Denoised Original Blue Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000104
+name: FT HPF 30 Channel 1 in Denoised Original Green Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000105
+name: FT HPF 30 Channel 1 in Denoised Original Red Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000106
+name: FT HPF 30 Channel 1 in Denoised Original Red Edge Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000107
+name: FT HPF 30 Channel 1 in Denoised Original NIR Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000108
+name: FT HPF 30 Channel 1 in Denoised Original MIR Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000109
+name: FT HPF 30 Channel 1 in Denoised Original TIR Image
+def: "" []
+relationship: is_a ISOL:0000021
