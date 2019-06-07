@@ -699,3 +699,15 @@ id: ISOL:0000116
 name: FT HPF 30 NDRE with Background Removed via Threshold
 def: "" []
 relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000117
+name: FT HPF 30 NDRE From Denoised Original Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000118
+name: NDRE with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
