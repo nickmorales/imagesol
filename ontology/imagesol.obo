@@ -657,3 +657,45 @@ id: ISOL:0000109
 name: FT HPF 30 Channel 1 in Denoised Original TIR Image
 def: "" []
 relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000110
+name: FT HPF 30 Channel 1 in Denoised Original NRN Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000111
+name: FT HPF 30 Channel 2 in Denoised Original NRN Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000112
+name: FT HPF 30 Channel 3 in Denoised Original NRN Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000113
+name: FT HPF 30 Channel 1 in Denoised Original NReN Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000114
+name: FT HPF 30 Channel 2 in Denoised Original NReN Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000115
+name: FT HPF 30 Channel 3 in Denoised Original NReN Image
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000116
+name: FT HPF 30 NDRE with Background Removed via Threshold
+def: "" []
+relationship: is_a ISOL:0000021
