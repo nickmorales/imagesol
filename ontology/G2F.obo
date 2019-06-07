@@ -267,3 +267,15 @@ id: G2F:0000044
 name: Plant height plant5 [cm]
 def: "Plant height to flag leaf for fifth plant in plot." []
 relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000045
+name: Ear height plant10 [cm]
+def: "Ear height measurement for tenth plant in plot." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000046
+name: Plant height plant1 [cm]
+def: "Plant height to flag leaf for first plant in plot." []
+relationship: variable_of G2F:0000001
