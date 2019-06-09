@@ -711,3 +711,9 @@ id: ISOL:0000118
 name: NDRE with Background Removed via Threshold
 def: "" []
 relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000119
+name: NDRE From Denoised Original Image
+def: "" []
+relationship: is_a ISOL:0000021
