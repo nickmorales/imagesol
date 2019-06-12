@@ -717,3 +717,75 @@ id: ISOL:0000119
 name: NDRE From Denoised Original Image
 def: "" []
 relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000120
+name: Channel 1 in Denoised Original Image with Background Removed via Thresholded NDRE Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000121
+name: Channel 2 in Denoised Original Image with Background Removed via Thresholded NDRE Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000122
+name: Channel 3 in Denoised Original Image with Background Removed via Thresholded NDRE Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000123
+name: Channel 1 in Denoised Original Image with Background Removed via NDRE Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000124
+name: Channel 2 in Denoised Original Image with Background Removed via NDRE Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000125
+name: Channel 3 in Denoised Original Image with Background Removed via NDRE Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000126
+name: FT HPF 30 Channel 1 in Denoised Original Image with Background Removed via Original NDRE Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000127
+name: FT HPF 30 Channel 2 in Denoised Original Image with Background Removed via Original NDRE Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000128
+name: FT HPF 30 Channel 3 in Denoised Original Image with Background Removed via Original NDRE Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000129
+name: FT HPF 30 Channel 1 in Denoised Original Image with Background Removed via Thresholded NDRE Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000130
+name: FT HPF 30 Channel 2 in Denoised Original Image with Background Removed via Thresholded NDRE Mask
+def: "" []
+relationship: is_a ISOL:0000021
+
+[Term]
+id: ISOL:0000131
+name: FT HPF 30 Channel 3 in Denoised Original Image with Background Removed via Thresholded NDRE Mask
+def: "" []
+relationship: is_a ISOL:0000021
