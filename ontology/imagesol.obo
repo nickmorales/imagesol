@@ -49,26 +49,26 @@ relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000008
-name: NIR (750-900nm)
-def: "A single channel image capturing the near infrared (NIR) spectrum between 750 to 900 nm" []
+name: NIR (780-3000nm)
+def: "A single channel image capturing the near infrared (NIR) spectrum between 780 to 3000 nm" []
 relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000009
-name: MIR (1550-1750nm)
-def: "A single channel image capturing the mid infrared (MIR) spectrum between 1550 to 1750 nm" []
+name: MIR (3000-50000nm)
+def: "A single channel image capturing the mid infrared (MIR) spectrum between 3000 to 50000 nm" []
 relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000010
-name: FIR (2080-2350nm)
-def: "A single channel image capturing the far infrared spectrum between 2080 to 2350 nm" []
+name: FIR (50000-1000000nm)
+def: "A single channel image capturing the far infrared spectrum between 50000 to 1000000 nm" []
 relationship: is_a ISOL:0000001
 
 [Term]
 id: ISOL:0000011
-name: Thermal IR (10400-12500nm)
-def: "A single channel image capturing the thermal infrared spectrum between 10400 to 12500 nm" []
+name: Thermal IR (9000-14000nm)
+def: "A single channel image capturing the thermal infrared spectrum between 9000 to 14000 nm" []
 relationship: is_a ISOL:0000001
 
 [Term]
