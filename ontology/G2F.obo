@@ -279,3 +279,15 @@ id: G2F:0000046
 name: Plant height plant1 [cm]
 def: "Plant height to flag leaf for first plant in plot." []
 relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000047
+name: Anthesis [date]
+def: "Date of anthesis in MM/DD/YY format." []
+relationship: variable_of G2F:0000001
+
+[Term]
+id: G2F:0000048
+name: Silking [date]
+def: "Date of silking in MM/DD/YY format." []
+relationship: variable_of G2F:0000001
