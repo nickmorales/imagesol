@@ -1407,3 +1407,21 @@ id: ISOL:0000320
 name: Fourier Transform High Pass Filter 40 Red Edge Image From 3 Channel Merged NReN Denoised Thresholded NDRE Vegetative Index Masked Image
 def: "" []
 relationship: is_a ISOL:0000101
+
+[Term]
+id: ISOL:0000321
+name: Raster DSM Denoised Original Image
+def: "" []
+relationship: is_a ISOL:0000101
+
+[Term]
+id: ISOL:0000322
+name: Thresholded Raster DSM Denoised Original Image
+def: "" []
+relationship: is_a ISOL:0000101
+
+[Term]
+id: ISOL:0000323
+name: Raster DSM
+def: "A single channel image capturing the elevation map from a digital surface map (DSM) as a raster" []
+relationship: is_a ISOL:0000001
