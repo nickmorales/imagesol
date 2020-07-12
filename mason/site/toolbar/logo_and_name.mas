@@ -2,6 +2,6 @@
 <a class="navbar-brand" href="/" style="padding:10px 0px">
 
 <img id="sgnlogo"
-src="/static/img/sgn_transparent_logo.png" width="60" alt="ImageBreed Home" title="ImageBreed Home"></a>
+src="/static/img/imagebreed/imagebreedlogo_noBackground.png" width="60" alt="ImageBreed Home" title="ImageBreed Home"></a>
 
 <a class="navbar-brand sgn_brand_name" href="/">ImageBreed</a>

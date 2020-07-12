@@ -8,8 +8,6 @@ $show_accept_dialog => undef
 <h1>Welcome to ImageBreed!</h1>
 <h1>Currently in a development mode. Please contact nm529@cornell.edu if you need help.</h1>
 <br/>
-<h1>See you also at PAG2020 in San Diego!</h1>
-</br>
 
 <br/>
 <a class="btn btn-lg btn-default" href="/breeders/drone_imagery">Manage Drone Imagery</a>
@@ -17,8 +15,9 @@ $show_accept_dialog => undef
 <a class="btn btn-lg btn-default" href="/breeders_toolbox/protocol/5">G2F Genotypic Data</a>
 <br/>
 
+<hr>
 <br />
-<img src="http://phenome2020.org/wp-content/uploads/2019/06/Phenome-2020-SaveTheDate-1500x630.jpg" width="800" />
+<img src="/static/img/imagebreed/imagebreedlogo_noBackground.png" width="800" />
 <br/>
 <!-- & homepage/carousel.mas & -->
 
