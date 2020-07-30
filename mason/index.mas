@@ -6,8 +6,12 @@ $show_accept_dialog => undef
 
 <center>
 <h1>Welcome to ImageBreed!</h1>
-<h1>Currently in a development mode. Please contact nm529@cornell.edu if you need help.</h1>
-<br/>
+
+<div class="well well-sm">
+<p>This system helps you manage field trials, process imaging events, and perform genotypically informed predictions.</p>
+<p>Please cite <a href="https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20004">ImageBreed</a> if you find this software useful.</p>
+<p>A Docker deployment is <a href="https://github.com/nickmorales/breedbase_dockerfile">available</a> with Docker images available from <a href="https://hub.docker.com/repository/docker/nmorales3142/nicksbreedbase">DockerHub</a>. Please contact nm529@cornell.edu if you have questions.</p>
+</div>
 
 <br/>
 <a class="btn btn-lg btn-default" href="/breeders/drone_imagery">Manage Drone Imagery</a>

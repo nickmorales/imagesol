@@ -14,9 +14,22 @@
 
 </div -->
 <hr>
-		<div style="margin-left:20pt; margin-top:10pt">
-     This site is hosted at the <a href="https://btiscience.org/">Boyce Thompson Institute</a>.<br />
-     	  
-	  <a href="https://btiscience.org"><img src="/static/documents/img/bti_logo_2016.png" width="140" /></a>
-	       </div>
 
+<div class="row">
+    <div class="col-sm-4">
+            <center>
+                <a href="https://btiscience.org"><img src="/static/documents/img/bti_logo_2016.png" width="140" /></a>
+            </center>
+    </div>
+    <div class="col-sm-4">
+        <center>
+            <p>This site is hosted by Nicolas Morales (nm529@cornell.edu).</p>
+            <p>Please cite <a href="https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20004">ImageBreed</a> if you find this software useful.</p>
+        </center>
+    </div>
+    <div class="col-sm-4">
+            <center>
+            <img src="/static/documents/img/cu_logo.png" width="200" />
+            </center>
+    </div>
+</div>
