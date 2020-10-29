@@ -10,6 +10,9 @@
     <li><a href="/accession_usage">Accession Usage</a></li>
     <li><a href="/tools/trial/comparison/list">Compare Trials</a></li>
     <li><a href="/tools/graphicalfiltering">Graphical Filtering</a></li>
+    <li><a href="/tools/boxplotter">BoxPlotter Tool</a></li>
+    <li><a href="/tools/stability">Stability AMMI and GGE</a></li>
+    <li><a href="/tools/heritability">Heritability</a></li>
     <li><a href="/tools/image_analysis">Image Analysis</a></li>
 
     <li role="separator" class="divider"></li>
