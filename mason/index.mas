@@ -9,15 +9,19 @@ $show_accept_dialog => undef
 
 <div class="well well-sm">
 <p>This system helps you manage field trials, process imaging events, and perform genotypically informed predictions.</p>
-<p>Please cite <a href="https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20004">ImageBreed</a> if you find this software useful.</p>
-<p>A Docker deployment is <a href="https://github.com/nickmorales/breedbase_dockerfile">available</a> with Docker images available from <a href="https://hub.docker.com/repository/docker/nmorales3142/nicksbreedbase">DockerHub</a>. Please contact nm529@cornell.edu if you have questions.</p>
+<p>Please cite <a href="https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20004" target=_blank>ImageBreed</a> if you find this software useful.</p>
 </div>
 
-<br/>
 <a class="btn btn-lg btn-default" href="/breeders/drone_imagery">Manage Drone Imagery</a>
 <a class="btn btn-lg btn-default" href="/breeders/trials">Manage Field Experiments</a>
 <a class="btn btn-lg btn-default" href="/breeders_toolbox/protocol/5">G2F Genotypic Data</a>
-<br/>
+<br/><br/>
+
+<div class="well well-sm">
+<p>A Docker deployment is <a href="https://github.com/nickmorales/breedbase_dockerfile" target=_blank>available</a> with Docker images available from <a href="https://hub.docker.com/repository/docker/nmorales3142/nicksbreedbase" target=_blank>DockerHub</a>.</p>
+<p>A tutorial video is <a href="https://www.youtube.com/watch?v=yLLaF7sS2Qs&t=2750s" target=_blank>available to view on YouTube</a>.</p>
+<p>A detailed description of genotyping storage system available in this <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240059" target=_blank>publication</a>.</p>
+</div>
 
 <hr>
 <br />
