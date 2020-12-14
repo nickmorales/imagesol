@@ -14,7 +14,7 @@ $show_accept_dialog => undef
 
 <a class="btn btn-lg btn-default" href="/breeders/drone_imagery">Manage Drone Imagery</a>
 <a class="btn btn-lg btn-default" href="/breeders/trials">Manage Field Experiments</a>
-<a class="btn btn-lg btn-default" href="/breeders_toolbox/protocol/5">G2F Genotypic Data</a>
+<a class="btn btn-lg btn-default" href="/search/genotyping_protocols">Genotypic Data</a>
 <br/><br/>
 
 <div class="well well-sm">
