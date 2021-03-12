@@ -13,6 +13,7 @@
     <li><a href="/breeders/crosses/">Crosses</a></li>
     <li><a href="/breeders/trials/">Field Trials</a></li>
     <li><a href="/breeders/genotyping/">Genotyping Plates and VCF Data</a></li>
+    <li><a href="/breeders/sequence_metadata/">Genomic Sequence Metadata</a></li>
     <li><a href="/breeders/samples/">Tissue Samples</a></li>
     <li><a href="/fieldbook">Field Book App</a></li>
     <li><a href="/breeders/phenotyping/">Phenotyping</a></li>
