@@ -18,7 +18,7 @@ $show_accept_dialog => undef
 <br/><br/>
 
 <div class="well well-sm">
-<p>A Docker deployment is <a href="https://github.com/nickmorales/breedbase_dockerfile" target=_blank>available</a> with Docker images available from <a href="https://hub.docker.com/repository/docker/nmorales3142/nicksbreedbase" target=_blank>DockerHub</a>.</p>
+<p>A Docker deployment is <a href="https://github.com/nickmorales/imagebreed_dockerfile" target=_blank>available</a> with Docker images available from <a href="https://hub.docker.com/repository/docker/imagebreed/imagebreed" target=_blank>DockerHub</a>.</p>
 <p>Tutorial videos are <a href="https://www.youtube.com/watch?v=yLLaF7sS2Qs&t=2750s" target=_blank>available to view on YouTube</a> and follow <a href="https://www.youtube.com/channel/UC1FYqz6kz9pE72sSHhG7ocQ" target=_blank> ImageBreed on Youtube</a>.</p>
 <p>A detailed description of the genotyping storage system is available in this <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240059" target=_blank>publication</a>.</p>
 <p>Now integrated with <a href="https://www.opendronemap.org/odm/" target=_blank>OpenDroneMap</a> for creating orthophotomosaics and digital surface maps (DSM) from color images or MicaSense 5-channel images. Go to <a href="/breeders/drone_imagery">Manage Drone Imagery</a> and process your aerial imaging events!</p>
