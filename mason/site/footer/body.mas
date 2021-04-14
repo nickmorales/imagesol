@@ -1,3 +1,9 @@
+<%init>
+  my $dir = $c->config->{basepath};
+  my $tag = `git describe --abbrev=0 --tags`;
+  my $commit = `git rev-parse --short HEAD`;
+  my $updated = `git log -1 --format=%cd`;
+</%init>
 
 <!-- END CONTENT WRAPPER -->
 
@@ -25,6 +31,8 @@
         <center>
             <p>Please cite <a href="https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20004">ImageBreed</a> if you find this software useful in your research.</p>
             <p>Please show your support for this open-source software by <a href="https://www.patreon.com/nmorales">subscribing</a>.</p>
+            <hr>
+            <p><small><b>ImageBreed <% $tag %></b> <% $commit %></small></p>
         </center>
     </div>
     <div class="col-sm-3">
