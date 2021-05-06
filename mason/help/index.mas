@@ -1,7 +1,6 @@
 
 <& /page/page_title.mas, title=>"ImageBreed Help" &>
 
-<div>ImageBreed is a tool for managing, extracting, and analyzing drone images for plant breeding.</div>
+<div>ImageBreed is a tool for managing, extracting, and analyzing aerial imaging events for plant breeding.</div>
 
 <h3>Manual</h3>
-
