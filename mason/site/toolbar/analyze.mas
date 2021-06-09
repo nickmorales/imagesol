@@ -5,6 +5,7 @@
     <li><a href="/analyses">Analyses</a></li>
     <li><a href="/analytics_protocols">Analytics Results</a></li>
     <li><a href="/selection/index">Selection Index</a></li>
+    <li><a href="/noaa_ncdc_analysis">NOAA Weather</a></li>
 
     <!--li><a href="/solgs/search">Genomic Selection</a></li>
     <li><a href="/pca/analysis">Population Structure</a></li>
