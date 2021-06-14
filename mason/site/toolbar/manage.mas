@@ -25,5 +25,7 @@
     <!-- li><a href="/breeders/odk">ODK Data Collection</a></li -->
     <li><a href="/breeders/identifier_generation">Identifier Generation</a></li>
     <li><a href="/breeders/file_share_dump">File Share</a></li>
+    <li role="separator" class="divider"></li>
+    <li><a href="/order/stocks/view">Order Stocks</a></li>
   </ul>
 </li>
