@@ -5,7 +5,7 @@
 
     <li role="separator" class="divider"></li>
 
-    <li><a https://nickmorales.github.io/imagebreed/" class="footer">Manual</a></li>
+    <li><a href="https://nickmorales.github.io/imagebreed/" class="footer">Manual</a></li>
     <li><a href="/forum/topics.pl">Forum</a></li>
   </ul>
 </li>
