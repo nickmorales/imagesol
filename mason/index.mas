@@ -10,6 +10,7 @@ $show_accept_dialog => undef
 <div class="well well-sm">
 <p>This system helps you manage field trials, process imaging events, and perform genotypically informed predictions.</p>
 <p>Please cite <a href="https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20004" target=_blank>ImageBreed</a> if you find this software useful.</p>
+<p>Watch tutorial videos for <a href="https://www.youtube.com/channel/UC1FYqz6kz9pE72sSHhG7ocQ" target=_blank>ImageBreed</a>.</p>
 </div>
 
 <a class="btn btn-lg btn-default" href="/breeders/drone_imagery">Manage Aerial Imagery</a>
@@ -19,8 +20,8 @@ $show_accept_dialog => undef
 
 <div class="well well-sm">
 <p>A Docker deployment is <a href="https://github.com/nickmorales/imagebreed_dockerfile" target=_blank>available</a>.</p>
-<p>Tutorial videos for <a href="https://www.youtube.com/channel/UC1FYqz6kz9pE72sSHhG7ocQ" target=_blank>ImageBreed</a>.</p>
 <p>A detailed description of the genotyping storage system is <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0240059" target=_blank>published</a>.</p>
+<p>Please follow my <a href="https://www.researchgate.net/profile/Nicolas-Morales-6" target=_blank>research</a>.</p>
 <p>Now integrated with <a href="https://www.opendronemap.org/odm/" target=_blank>OpenDroneMap</a> for creating orthophotomosaics and digital surface maps (DSM) from color images or MicaSense 5-channel images.</p>
 </div>
 
