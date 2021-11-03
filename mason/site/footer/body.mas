@@ -19,25 +19,51 @@
 
 
 </div -->
-<hr>
 
-<div class="row">
-    <div class="col-sm-3">
-            <center>
-                <a href="https://btiscience.org"><img src="/static/documents/img/bti_logo_2016.png" width="140" /></a>
-            </center>
+<div class="well well-sm">
+
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-sm-1">
+                </div>
+                <div class="col-sm-2">
+                    <center>
+                        <a href="https://btiscience.org"><img src="/static/documents/img/bti_logo_2016.png" width="140" /></a>
+                    </center>
+                </div>
+                <div class="col-sm-2">
+                    <center>
+                        <a href="https://foundationfar.org/"><img src="/static/documents/img/FFARlogo.jpg" width="140" /></a>
+                    </center>
+                </div>
+                <div class="col-sm-2">
+                    <center>
+                        <a href="https://nifa.usda.gov/"><img src="/static/documents/img/USDANIFAlogo.png" width="140" /></a>
+                    </center>
+                </div>
+                <div class="col-sm-2">
+                    <center>
+                        <a href="https://www.cornell.edu/"><img src="/static/documents/img/cu_logo.png" width="200" /></a>
+                    </center>
+                </div>
+                <div class="col-sm-2">
+                    <center>
+                        <a href="https://www.iowacorn.org/iowa-corn-home/"><img src="/static/documents/img/IowaCornBoardlogo.png" width="200" /></a>
+                    </center>
+                </div>
+                <div class="col-sm-1">
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="col-sm-6">
-        <center>
-            <p>Please cite <a href="https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20004">ImageBreed</a> if you find this software useful in your research.</p>
-            <p>Please show your support for this open-source software by <a href="https://www.patreon.com/nmorales">subscribing</a>.</p>
-            <hr>
-            <p><small><b>ImageBreed v6.2</b></small></p>
-        </center>
-    </div>
-    <div class="col-sm-3">
-            <center>
-            <img src="/static/documents/img/cu_logo.png" width="200" />
-            </center>
-    </div>
+
+    <hr>
+
+    <center>
+        <p>Please cite <a href="https://acsess.onlinelibrary.wiley.com/doi/full/10.1002/ppj2.20004">ImageBreed</a> if you find this software useful in your research.</p>
+        <p>Please show your support for this open-source software by <a href="https://www.patreon.com/nmorales">subscribing</a>.</p>
+        <hr>
+        <p><small><b>ImageBreed v6.2</b></small></p>
+    </center>
 </div>
