@@ -1,7 +1,7 @@
 
-<a class="navbar-brand" href="/" style="padding:10px 0px">
+<a class="navbar-brand" href="/" style="padding:16px 10px">
 
 <img id="sgnlogo"
 src="/static/img/imagebreed/imagebreedlogo_noBackground.png" width="60" alt="ImageBreed Home" title="ImageBreed Home"></a>
 
-<a class="navbar-brand sgn_brand_name" href="/">ImageBreed</a>
+<!--a class="navbar-brand sgn_brand_name" href="/">ImageBreed</a-->
