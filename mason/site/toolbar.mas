@@ -9,7 +9,7 @@
         <span class="icon-bar"></span>
       </button>
       <& toolbar/logo_and_name.mas &>
-      <& toolbar/buymeacoffee.mas &>
+      <!--& toolbar/buymeacoffee.mas &-->
     </div>
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav">
