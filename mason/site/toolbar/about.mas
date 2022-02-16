@@ -9,5 +9,11 @@
 
     <li><a href="/contact/form">Contact</a></li>
     <li><a href="/forum/topics.pl">Forum</a></li>
+
+    <li role="separator" class="divider"></li>
+
+    <li><a href="https://www.patreon.com/nmorales" >Support ImageBreed on Patreon</a></li>
+    <li><a href="https://www.buymeacoffee.com/imagebreed" >Buy ImageBreed a Coffee</a></li>
+
   </ul>
 </li>
