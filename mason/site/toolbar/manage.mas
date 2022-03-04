@@ -5,6 +5,7 @@
     <li><a href="/breeders/drone_imagery">Aerial Imagery</a></li>
     <li role="separator" class="divider"></li>
 
+    <li><a href="/breeders/companies/">Companies</a></li>
     <li><a href="/breeders/manage_roles/">User Roles</a></li>
     <li><a href="/breeders/manage_programs/">Breeding Programs</a></li>
     <li><a href="/breeders/locations">Locations</a></li>
