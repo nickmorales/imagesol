@@ -16,6 +16,7 @@
     <li><a href="/breeders/genotyping/">Genotyping Plates</a></li>
     <li><a href="/breeders/genotyping/">Genotyping Upload (VCF, SSR)</a></li>
     <li><a href="/breeders/sequence_metadata/">Genomic Sequence Metadata</a></li>
+    <li><a href="/breeders/markers/">Marker Sets</a></li>
     <li><a href="/breeders/samples/">Tissue Samples</a></li>
     <li><a href="/fieldbook">Field Book App</a></li>
     <li><a href="/breeders/phenotyping/">Phenotyping</a></li>
