@@ -14,7 +14,7 @@
     <li><a href="/breeders/crosses/">Crosses</a></li>
     <li><a href="/breeders/trials/">Field Trials</a></li>
     <li><a href="/breeders/genotyping/">Genotyping Plates</a></li>
-    <li><a href="/breeders/genotyping/">Genotyping Upload (VCF, SSR)</a></li>
+    <li><a href="/breeders/genotyping/">Genotyping (VCF, GRM, SSR)</a></li>
     <li><a href="/breeders/sequence_metadata/">Genomic Sequence Metadata</a></li>
     <li><a href="/breeders/markers/">Marker Sets</a></li>
     <li><a href="/breeders/samples/">Tissue Samples</a></li>
