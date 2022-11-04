@@ -12,6 +12,7 @@ $show_accept_dialog => undef
 <p><a href="https://www.youtube.com/channel/UC1FYqz6kz9pE72sSHhG7ocQ" target=_blank><img src="/static/img/imagebreed/imagebreed_tutorials.png" width="180" alt="Watch ImageBreed Tutorials" title="Watch ImageBreed Tutorials"></a></p>
 </div>
 
+<a class="btn btn-lg btn-default" href="/breeders/drone_rover">Manage Ground Rovers</a>
 <a class="btn btn-lg btn-default" href="/breeders/drone_imagery">Manage Aerial Imagery</a>
 <a class="btn btn-lg btn-default" href="/breeders/trials">Manage Field Experiments</a>
 <a class="btn btn-lg btn-default" href="/search/genotyping_protocols">Genotypic Data</a>
